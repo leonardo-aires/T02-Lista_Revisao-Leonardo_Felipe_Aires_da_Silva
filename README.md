@@ -1,6 +1,6 @@
 # T02-Lista_Revisao-Leonardo_Felipe_Aires_da_Silva
 
-T03 - Tarefa sobre funções
+T02 - Lista de Revisão
 
 Aluno: Leonardo Felipe Aires da Silva
 
